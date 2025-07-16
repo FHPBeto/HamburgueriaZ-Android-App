@@ -12,7 +12,9 @@ Este é o meu primeiro aplicativo completo para Android, desenvolvido como parte
 ## 📸 Capturas de Tela
 <img width="830" height="718" alt="Captura de tela 2025-07-15 173958" src="https://github.com/user-attachments/assets/33d64412-1cc3-41b6-bf0b-8386718bdf29" />
 <img width="341" height="589" alt="Captura de tela 2025-07-15 180331" src="https://github.com/user-attachments/assets/edc5e53b-cacb-4c17-909e-d9a0db0bb3c0" />
-*[Aqui você pode adicionar as capturas de tela do seu app. Vou te mostrar como fazer isso logo abaixo!]*
+<img width="1356" height="718" alt="Captura de tela 2025-07-15 184131" src="https://github.com/user-attachments/assets/8def6b19-c9da-4d84-930c-9006533aeeee" />
+<img width="1331" height="707" alt="Captura de tela 2025-07-15 133143" src="https://github.com/user-attachments/assets/c71e0013-a2f3-4c2e-9289-ed9bdc54dd3d" />
+
 
 <br>
 
@@ -35,4 +37,8 @@ Este é o meu primeiro aplicativo completo para Android, desenvolvido como parte
 
 
 
-*[Aqui é um ótimo lugar para escrever um pouco sobre sua experiência. Por exemplo: "O maior desafio foi entender como as constraints funcionam para organizar o layout. Aprendi também sobre o ciclo de vida de uma Activity e como usar Intents para interagir com outros aplicativos, o que foi uma descoberta fantástica."]*
+Durante este projeto, meu maior desafio foi entender como as constraints funcionam para organizar o layout sem que os componentes ficassem um em cima do outro.
+
+Aprendi muito sobre como conectar o código Java com os elementos visuais do XML e a importância de resolver um problema de cada vez. A parte mais gratificante foi ver a lógica do cálculo de preços funcionando e, no final, fazer o aplicativo interagir com o Gmail usando uma Intent, o que eu não sabia que era possível.
+
+No futuro, gostaria de adicionar mais opções de produtos ao cardápio.
